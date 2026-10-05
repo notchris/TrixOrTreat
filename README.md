@@ -1,4 +1,4 @@
-# TrixOrTreat
+# TrixOrTreat (2024)
 
 A halloween-themed game made with Phaser3 / Three.js
 
